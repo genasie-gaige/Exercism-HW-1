@@ -1,2 +1,2 @@
 # Exercism-HW-1
-Minesweeper in Dart
+Secrete Hand Shake in Dart
